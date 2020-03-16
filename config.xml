@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<cam_width>3280</cam_width>
+<cam_height>2464</cam_height>
+<cam_config>"300000 3.0 3.0"</cam_config>
+<pat_column>9</pat_column>
+<pat_row>7</pat_row>
+<cal_file>calib.xml</cal_file>
+<det_threshold>30</det_threshold>
+<det_window>20</det_window>
+<focal_length>2649.3</focal_length>
+<las_angle>1.1273</las_angle>
+<las_steps>6400</las_steps>
+<las_distance>475.0</las_distance>
+<z_max>2000.0</z_max>
+<cmp_iter>10</cmp_iter>
+<cmp_cycle>16</cmp_cycle>
+<cmp_file></cmp_file>
+</opencv_storage>
